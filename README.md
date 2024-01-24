@@ -7,7 +7,8 @@ Este projeto foi realizado durante a imersão Front-End da Alura no período de 
 - Ter instalada a extensão Live Share
 
 #### ->  PARA ABRIR
-Copie e cole o link do repositório no VS Code
+1. Copie e cole o link do repositório no VS Code
+2. Abra o index.html com o Live Share
 
 ## 🎲 Dados do repositório
 ![GitHub repo size](https://img.shields.io/github/repo-size/M1relly/Spotify?style=for-the-badge)
