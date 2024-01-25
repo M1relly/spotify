@@ -1,4 +1,4 @@
-# Imersão Front-End da Alura
+# Projeto Spotify
 Este projeto foi realizado durante a imersão Front-End da Alura no período de 22/01/2024 - 26/01/2024 com o **objetivo** de representar o site da plataforma de streaming _Spotify_.
 
 
