@@ -34,4 +34,4 @@ document.addEventListener('input', function () {
     }
     
     requestApi(searchTerm);
-})
+});
