@@ -64,6 +64,10 @@
     margin-left: 10px;
   }
   
+  .header__search:hover {
+    border: 0.0625rem solid #fff; /* 1px para rem */
+  }
+  
   .header__search input {
     background: transparent;
     border: none;
@@ -93,6 +97,10 @@
     border-radius: 40px;
   }
 
+  .header__login .subscribe:hover,
+  .header__login .login:hover {
+    transform: scale(1.04);
+  }
 
     /* PLAYLIST */
 .playlist-container {
@@ -334,4 +342,4 @@
   #result-artist {
     padding: 20px 40px;
   }
-  /* FIM CARD ARTISTA */
+  /* FIM CARD ARTISTA */ 
